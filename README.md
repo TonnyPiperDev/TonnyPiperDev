@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Tonny Piper 👋
 
-<!--
-**TonnyPiperDev/TonnyPiperDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud enthusiast building skills in AWS and cloud architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☁️ Current Skills
+
+- AWS fundamentals
+- Cloud architecture basics
+- Git & GitHub
+- Linux basics
+
+---
+
+## 📚 Currently Learning
+
+- AWS Solutions Architect Associate
+- Terraform (Infrastructure as Code)
+- Serverless architecture
+- Cloud security fundamentals
+
+---
+
+## 📜 Certifications
+
+- AWS Certified Cloud Practitioner
+- AWS AI Practitioner
+- AWS Solutions Architect Associate (in progress)
+
+---
+
+## 🚀 Current Focus
+
+- Preparing for the AWS Solutions Architect Associate certification  
+- Building hands-on AWS projects to strengthen cloud architecture skills
+
+---
+
+## 📫 Contact
+
+contact@tonnypiper.dev
